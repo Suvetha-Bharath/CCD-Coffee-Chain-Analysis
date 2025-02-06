@@ -15,11 +15,11 @@ The dataset includes product name, state, market, market size, product type, pro
 
 Key Fields:
 
-###🛍️ Product Name
-###💰 Sales & Profit Figures
-###📊 Cost of Goods Sold (COGS)
-###🎯 Target vs. Actual Performance
-###🌍 Regional Data
+🛍️ Product Name
+💰 Sales & Profit Figures
+📊 Cost of Goods Sold (COGS)
+🎯 Target vs. Actual Performance
+🌍 Regional Data
 
 📈 Key Insights
 🔹 Revenue Trends: 2013 📆 had higher revenue (+6.67%) than 2012, with December being the best-performing 🏆 month and November being the worst ❌.
@@ -33,17 +33,27 @@ Key Fields:
 🔹 COGS Issues: Some products had COGS > Sales, leading to losses (Herbal Tea – Mint: +1.4%, Caffe Mocha: +2%, Green Tea: +4.7%).
 
 ✅ Recommendations
+
 ✔️ Optimize Pricing & Cost Control 💲: Adjust prices & sourcing for low-profit products like Green Tea & Caffe Mocha.
+
 ✔️ Improve Inventory & Supplier Management 📦: Reduce excess stock and renegotiate supplier contracts to lower COGS.
+
 ✔️ Focus on High-Sales, Low-Profit Stores 🏪: Stores like Store 518 need better cost management to maximize profits.
+
 ✔️ Enhance Regional Strategies 🌍: Special offers, localized pricing, and better promotions can boost sales in West & East regions for loss making products.
 
 📌 Project Deliverables
+
 📊 Excel Dashboard – Interactive visualizations of general over view performance of stores and products, sales, profit, and cost trends.
+
 📄 Insights Report – Key findings and recommendations.
+
 📂 GitHub Repository – dashboard file pdf
 
 🛠️ Tools Used
+
 🟢 Microsoft Excel (Dashboard creation & data analysis)
+
 📊 Data Visualization (Charts & Graphs)
+
 
