@@ -16,9 +16,13 @@ Key Fields:
 🌍 Regional Data
 📈 Key Insights
 🔹 Revenue Trends: 2013 📆 had higher revenue (+6.67%) than 2012, with December being the best-performing 🏆 month and November being the worst ❌.
+
 🔹 Low-Profit Products: Green Tea (-89.35%) 🍵, Caffe Mocha (4.07%) ☕, and Mint (8.66%) 🌿 had low or negative profit margins.
+
 🔹 Sales vs. Profit Discrepancy: Some high-sales stores (e.g., Store 518 - $700 in sales but $232 loss) 📊 struggled due to costing inefficiencies.
+
 🔹 Target vs. Actual Performance: 3 products ❌ missed their sales targets (Decaf Irish Cream: -669, Colombian: -599, Caffe Mocha: -164).
+
 🔹 COGS Issues: Some products had COGS > Sales, leading to losses (Herbal Tea – Mint: +1.4%, Caffe Mocha: +2%, Green Tea: +4.7%).
 
 ✅ Recommendations
