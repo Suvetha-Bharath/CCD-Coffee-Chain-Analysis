@@ -22,6 +22,7 @@ Key Fields:
 🌍 Regional Data
 
 📈 Key Insights
+
 🔹 Revenue Trends: 2013 📆 had higher revenue (+6.67%) than 2012, with December being the best-performing 🏆 month and November being the worst ❌.
 
 🔹 Low-Profit Products: Green Tea (-89.35%) 🍵, Caffe Mocha (4.07%) ☕, and Mint (8.66%) 🌿 had low or negative profit margins.
