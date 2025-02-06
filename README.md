@@ -30,7 +30,7 @@ Key Fields:
 📌 Project Deliverables
 📊 Excel Dashboard – Interactive visualizations of general over view performance of stores and products, sales, profit, and cost trends.
 📄 Insights Report – Key findings and recommendations.
-📂 GitHub Repository – Contains dataset and dashboard file
+📂 GitHub Repository – dashboard file pdf
 
 🛠️ Tools Used
 🟢 Microsoft Excel (Dashboard creation & data analysis)
